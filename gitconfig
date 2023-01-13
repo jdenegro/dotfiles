@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = juniordn825@gmail.com
+	name = Alberto de Negro
